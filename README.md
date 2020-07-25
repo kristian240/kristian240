@@ -1,12 +1,18 @@
-### Hi You! 👋
+### Hello there folks! 👋
 
-My name is Kristian Djaković. 
+My name is **Kristian Djaković**.
 
-My current status:
+#### About me
 
 - 📚 Computer science student at Faculty of Electrical Engineering and Computing in University of Zagreb
-- 👨🏼‍💻 Frontend engineer at (Infinum)[https://infinum.com/]
+  - started in 2018
+- 👨🏼‍💻 Frontend engineer at [Infinum](https://infinum.com/)
+  - started 2019
+  
+#### Social
 
+- [LinkedIn](https://www.linkedin.com/in/kristian-djakovi%C4%87-b121b2193/)
+- [eMail](mailto:kristian.djakovic2@gmail.com)
 
 <!--
 **kristian240/kristian240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
