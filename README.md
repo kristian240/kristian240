@@ -4,8 +4,11 @@ My name is **Kristian Djaković**.
 
 #### About me
 
+- 👨🏼‍💻 Senior React Engineer at [MochaLabs](https://mochalabs.com/)
+  - started 2023
 - 👨🏼‍💻 React Lead Engineer at [Infinum](https://infinum.com/)
-  - started 2021
+  - started 2022
+  - ended 2023
 - 👨🏼‍💻 Javascript Engineer at [Infinum](https://infinum.com/)
   - started 2019
 - 📚 Computer science student at Faculty of Electrical Engineering and Computing in University of Zagreb
